@@ -93,6 +93,14 @@ You can nest &lt;div-ision&gt; tags inside division tag.
   </div>
 ```
 
+### Serve
+
+Start a server and serve the file. May work without setting up a server in firefox, but requires serving over a server for other browsers. 
+
+```
+ http-server index.html
+```
+
 ## Built With
 
 * [Web Components](https://www.webcomponents.org/introduction) - Web platform APIs that allow you to create new custom tags.
