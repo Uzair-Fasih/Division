@@ -1,11 +1,11 @@
-<p align="center"><img height="100" src="./assets/Sandglass.png" alt="Sandglass logo"></p>
+<p align="center"><img height="100" src="./assets/Division.png" alt="Sandglass logo"></p>
 
 <p align="center">
   <img height="20" margin="20" src="./assets/build-passing.svg" alt="Build Status" />
   <img height="20" margin="20" src="./assets/version.svg" alt="Version Status" />
 </p>
 
-# Sandglass
+# Division.
 Modular development for websites using 
 <a href="https://www.webcomponents.org/introduction" target="_blank" rel="noopener noreferrer">webcomponents</a>
 and <a href="https://handlebarsjs.com/" target="_blank" rel="noopener noreferrer">handlebars</a>. 
@@ -24,7 +24,7 @@ Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | 11 ✔ |
 Download or clone this repo. You can grab the latest version of handlebars from <a href="https://handlebarsjs.com/" target="_blank" rel="noopener noreferrer">here</a>. 
 
 ```
-git clone https://github.com/dibgerge/ml-coursera-python-assignments.git
+git clone https://github.com/Uzair-Fasih/Division.git
 ```
 
 ## Usage
@@ -58,7 +58,7 @@ Use the tag &lt;div-ision&gt; with data-to-use attribue to create modules.
 
 #### divison.html must be as follows
 
-Each module or chunk must be a HTML file, and must have a single root component
+Each module or chunk must be a HTML file, may or may not have a single root component
 
 ./path/to/nested/divison.html
 ```
