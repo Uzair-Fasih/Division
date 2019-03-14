@@ -60,6 +60,7 @@ Each module or chunk must be a HTML file, may or may not have a single root tag
     <p> Hello! I am a chunk. </p>
   </div>
 ```
+or
 ```HTML
   <p> Hello! I am a chunk. </p>
   <p> Me too! </p>
@@ -69,11 +70,11 @@ You can provide styling to the module in the same file
 
 ```HTML
   <div>
-    <script>
+    <style>
       p {
         color: blue;
       }
-    </script>
+    </style>
     <p> Hello! I am a chunk. </p>
   </div>
 ```
